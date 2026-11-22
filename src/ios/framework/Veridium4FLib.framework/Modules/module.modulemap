@@ -1,0 +1,5 @@
+framework module Veridium4FLib {
+  umbrella header "Veridium4FLib.h"
+  export *
+  module * { export * }
+}
